@@ -1,6 +1,6 @@
 <script setup>
 import { inject, onMounted } from 'vue';
-import GalleryItem from './Galleryitem.vue';
+import GalleryItem from './GalleryItem.vue';
 
 const props = defineProps({
   works: {
